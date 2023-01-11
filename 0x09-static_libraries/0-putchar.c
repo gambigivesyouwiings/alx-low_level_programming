@@ -1,2 +1,6 @@
+#include "main.h"
+
 int _putchar(char c)
-{printf;}
+{
+  return (fwrite(1, &c, 1));
+}

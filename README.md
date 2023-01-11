@@ -1,1 +1,1 @@
-Everything intro about C ALX version
+arguments to main
