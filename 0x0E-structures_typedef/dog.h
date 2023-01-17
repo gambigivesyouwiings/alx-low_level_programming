@@ -1,3 +1,4 @@
+#include <stddef.h>
 #ifndef DOGGIE_H
 #define DOGGIE_H
 
@@ -15,4 +16,4 @@ struct dog
 	char *owner;
 }
 typedef struct dog dog_t;
-#endif /*DOGGIE*/
+#endif /*DOGGIE_h/
