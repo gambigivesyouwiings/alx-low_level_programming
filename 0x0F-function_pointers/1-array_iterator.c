@@ -1,3 +1,5 @@
+#include "function_pointers.h"
+
 /**
 * array_iterator - void function name
 * @array: entered array
